@@ -1,0 +1,33 @@
+# Daily Learning Journal
+## Date: [2024/08/14]
+### 1. **What I Learned Today**
+     - Key Takeaways:
+        -
+          
+### 2. **Resources Used**
+      -
+  
+### 3. **Challenges and Questions**
+   - **Challenge 1**: Struggled to fully understand the difference between Layer 3 and Layer 4 functions.
+   - **Questions**: How does the OSI model apply to real-world network troubleshooting?
+
+### 4. **Practical Exercises**
+   - **Exercise 1**: Set up a simple network using VirtualBox and tested connectivity between virtual machines.
+     - **Outcome**: Successfully configured the network, but ran into issues with DHCP settings. Need to revisit this tomorrow.
+
+### 5. **Reflection**
+   - **What Went Well**: I’m getting more comfortable with Linux commands, and the OSI model makes more sense now.
+   - **What Could Be Improved**: Need to spend more time on practical applications of networking concepts.
+
+### 6. **Goals for Tomorrow**
+   - **Goal 1**: Revisit DHCP configuration and understand its role in network communication.
+   - **Goal 2**: Start learning about basic cybersecurity concepts, specifically firewalls and their configurations.
+
+---
+
+### 7. **Additional Notes**
+   - Consider setting up a dedicated VM for testing different Linux distributions in the future.
+
+### 8. **Links to Related Work**
+   - [OSI Model Notes](networking-basics.md)
+   - [Linux Command Cheatsheet](linux-commands.md)
